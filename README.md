@@ -43,3 +43,8 @@ The dataset used for this project includes the following key variables:
 ### 5. Trend Analysis:
 - Perform a year-over-year analysis of revenue and profit growth rates.
 - Identify periods with significant financial performance changes.
+## Tools and Technologies:
+- Python
+- Pandas, NumPy, Matplotlib, Seaborn
+- Scipy (statistical testing)
+This project serves as a practical application for students learning to perform complete data analysis workflows in Python, from data preprocessing to drawing actionable business insights.
