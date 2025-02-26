@@ -2,7 +2,7 @@
 ## Project Overview
 This capstone project involves developing a comprehensive real estate data processing pipeline using Python. It covers end-to-end data analysis tasks including data ingestion, cleaning, transformation, and exploratory analysis, culminating in actionable insights into real estate market dynamics.
 ## Project Objective
-The primary goal is to equip students with practical skills in data management by handling a real-world real estate dataset. Students will:
+The primary goal is to hone practical skills in data management by handling a real-world real estate dataset. Here is what I did:
 - Ingest real estate data into a Python environment.
 - Clean and preprocess data to handle missing values, outliers, invalid entries, and inconsistencies.
 - Perform exploratory data analysis (EDA) to understand data distribution, identify key trends, and derive insights.
