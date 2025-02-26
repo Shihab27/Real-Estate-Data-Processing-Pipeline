@@ -1,4 +1,4 @@
-# Real-Estate-Data-Processing-Pipeline-Python-Capstone-Project-
+# Real-Estate-Data-Processing-Pipeline
 ## Project Overview
 This capstone project involves developing a comprehensive real estate data processing pipeline using Python. It covers end-to-end data analysis tasks including data ingestion, cleaning, transformation, and exploratory analysis, culminating in actionable insights into real estate market dynamics.
 ## Project Objective
