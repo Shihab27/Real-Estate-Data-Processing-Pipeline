@@ -36,9 +36,9 @@ The dataset used for this project includes the following key variables:
   - Whether there's a significant difference between revenue and expenses.
 ### 4. Financial Ratios & Insights:
 - Calculate critical financial ratios:
-  - Profit Margin (Profit/Revenue).
-  - Debt-to-Asset Ratio (Debt/Assets).
-  - Current Ratio (Assets/Liabilities).
+  - **Profit Margin** (Profit/Revenue).
+  - **Debt-to-Asset Ratio** (Debt/Assets).
+  - **Current Ratio** (Assets/Liabilities).
 - Compare calculated ratios against industry benchmarks to identify financial strengths or risks.
 ### 5. Trend Analysis:
 - Perform a year-over-year analysis of revenue and profit growth rates.
