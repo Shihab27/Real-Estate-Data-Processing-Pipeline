@@ -9,8 +9,8 @@ The primary goal is to equip students with practical skills in data management b
 - Visualize data to uncover patterns, relationships, and market dynamics.
 ## Dataset Attributes
 The dataset used for this project includes the following key variables:
-- Marketing Spend: Cost related to property marketing activities.
-- Operational Cost: Operational expenses incurred.
+- **Marketing Spend:** Cost related to property marketing activities.
+- **Operational Cost:** Operational expenses incurred.
 - **Revenue, Expenses, Profit, Debt, Assets, Liabilities** for financial analysis.
 - **Property details:** Number of bedrooms, bathrooms, property size (sqft), year built, lot size, etc.
 - **Listing details:** Date added, sold status, days on market.
