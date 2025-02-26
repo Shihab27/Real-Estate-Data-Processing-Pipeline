@@ -47,4 +47,4 @@ The dataset used for this project includes the following key variables:
 - Python
 - Pandas, NumPy, Matplotlib, Seaborn
 - Scipy (statistical testing)
-</br>This project serves as a practical application for students learning to perform complete data analysis workflows in Python, from data preprocessing to drawing actionable business insights.
+</br></br>This project serves as a practical application for students learning to perform complete data analysis workflows in Python, from data preprocessing to drawing actionable business insights.
